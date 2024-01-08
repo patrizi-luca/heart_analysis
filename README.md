@@ -23,10 +23,7 @@ The dataset used in this project can be found on Kaggle: [Heart Failure Predicti
    ```
    git clone https://github.com/your-username/heart-failure-prediction.git
    ```
-2. Navigate to the project directory:
-   ```
-   cd heart-failure-prediction
-   ```
-3. Run the scripts as needed
+
+2. Run the scripts as needed
 
 NB: Make sure to change `your-username` with your GitHub username and to make the changes that you need for your project.
